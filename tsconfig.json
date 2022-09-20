@@ -1,0 +1,9 @@
+{
+  "compilerOptions": {
+    "experimentalDecorators": true,
+    //"experimentalDecorators": true,
+    "allowJs": false
+  },
+  "extends": "expo/tsconfig.base",
+  "typeRoots": "./types"
+}
